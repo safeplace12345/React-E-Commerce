@@ -1,0 +1,13 @@
+
+.product {
+  max-width: 100vw;
+  display: grid;
+  grid-template-rows: 3fr 1fr;
+  margin: 0;
+  padding: 0;
+  max-height: 100vh;
+}
+.grided{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
